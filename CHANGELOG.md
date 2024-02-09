@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.5](https://github.com/j-eoeo/pcsc-rs/compare/v1.1.4...v1.1.5) (2024-02-09)
+
+
+### Bug Fixes
+
+* **deps:** update rust crate serde_json to v1.0.113 ([#377](https://github.com/j-eoeo/pcsc-rs/issues/377)) ([36deae6](https://github.com/j-eoeo/pcsc-rs/commit/36deae6293886db9280d1e3b0e5b8792d81e5807))
+* update readme preview screenshots and ALT ([#382](https://github.com/j-eoeo/pcsc-rs/issues/382)) ([db47aba](https://github.com/j-eoeo/pcsc-rs/commit/db47aba14164b7de8cffa1e5c66faf9ad984e2a2))
+
 ## [1.1.4](https://github.com/j-eoeo/pcsc-rs/compare/v1.1.3...v1.1.4) (2024-01-26)
 
 
